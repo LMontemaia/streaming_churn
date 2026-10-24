@@ -1,10 +1,10 @@
-# [Insira o Nome do Projeto]
+# [Análise de Churn - Projeto 1. Pós Graduação em Ciência de Dados UNIPDS]
 
 ![image](https://github.com/danielesantiago/TemplatePED/assets/64613885/cc24a702-46b8-4263-a764-8c65c56f02ac)
 
 
 ## 📌 Visão Geral
-Este projeto visa [insira o objetivo principal do projeto aqui, por exemplo, "analisar dados de vendas para identificar tendências de mercado"]. Utilizamos [insira as técnicas utilizadas, por exemplo, "técnicas avançadas de análise de dados, machine learning e processamento de linguagem natural"] para [insira o resultado esperado do projeto, por exemplo, "identificar padrões de compra e prever tendências futuras"].
+Este é um projeto de análise de churn em uma plataforma de streaming. O trabalho é voltado ao curso de Pós Graduação em Ciência ed Dados da UNIPDS. Utilizamos análise exploratória de dados (limpeza, análise univariada e bivariada) e frameworks de negócios (cohort, RFM e Pareto) para entender quem cancela, por quê e em que momento da vida do cliente o cancelamento(churn) acontece.
 
 📄 [Veja o template da apresentação](https://github.com/profrenatabiaggi/template/blob/master/reports/figures/Template_Case.pptx)
 
